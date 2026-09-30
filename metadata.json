@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance Advisor Bot",
+  "description": "AI-powered financial planning assistant for Rupesh and personal budget management, providing intelligent spending insights, automated budget plans, and savings tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
